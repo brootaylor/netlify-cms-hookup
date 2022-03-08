@@ -1,4 +1,4 @@
-# netlify-cms-hookup
+# Netlify CMS Hook-up
 
 This code repository exists so Netlify can hookup to a GitHub instance.
 
